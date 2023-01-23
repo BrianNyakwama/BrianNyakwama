@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrianNyakwama
-- 👀 I’m interested in data entry,analysis and visualization
-- 🌱 I’m currently learning data analysis softwares such as STATA, SPSS, Excel and Python
-- 💞️ I’m looking to collaborate on projects pertaining to SPSS, Excel and STATA
+- 👀 I’m interested in python, JS, front-end and back-end development
+- 🌱 I’m currently learning software engineering at ALX
+- 💞️ I’m looking to collaborate on projects pertaining python, javascript,git
 - 📫 How to reach me ... My email; damugrobrian1@gmail.com
 
 <!---
